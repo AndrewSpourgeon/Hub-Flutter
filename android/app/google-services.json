@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "81384459892",
+    "project_id": "hubapp-6679e",
+    "storage_bucket": "hubapp-6679e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:81384459892:android:11c83de87668f601154b21",
+        "android_client_info": {
+          "package_name": "com.andrewspourgeon.thehub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "81384459892-2c3nld3vnccs4fibafrs0qg8nn2mm0o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMy1B4GZRTpl61Yl_Ou1iiWi-XNKU5L4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "81384459892-2c3nld3vnccs4fibafrs0qg8nn2mm0o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
